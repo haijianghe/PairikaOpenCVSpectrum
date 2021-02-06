@@ -3,7 +3,7 @@ PairikaOpenCV的程序谱及静态源代码（计算复杂度）。
 
 Java代码，VirtualBox+Ubuntu环境下收集的程序谱（覆盖数据）和源代码。后续对此研究静态代码对软件错误定位的影响。   
 
-https://github.com/tum-i4/Pairika 
+https://github.com/tum-i4/Pairika (数据集来源)    
 RdbMakeProfileCode，该程序的执行结果。
 
 数据集作者的介绍。
